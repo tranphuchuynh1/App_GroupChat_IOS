@@ -80,6 +80,7 @@ struct SignInView: View {
                 } label: {
                     Text("Sign in with Google")
                         .padding()
+                        .font(.system(size: 18, weight: .bold))
                         .foregroundColor(.primary)
                         .overlay {
                             RoundedRectangle(cornerRadius: 28)
