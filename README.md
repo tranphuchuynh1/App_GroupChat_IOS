@@ -1,5 +1,5 @@
 ❄️ DỰ ÁN IOS SWIFT XCODE ĐỀ TÀI: "GROUPCHAT NGUYÊN CỨU KHOA HỌC CỦA YERSIN UNIVERSITY"
-———————————————————————————————————————————————————————————
+——————————————————————————————————————————————————————————
 Giới thiệu :
 ![image](https://github.com/user-attachments/assets/04a7215c-eb80-4757-8e81-6fb670e2459f)
 
